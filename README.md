@@ -68,19 +68,31 @@ This repository follows a structured learning roadmap covering:
 
 ```
 .
-├── 01-python/
-├── 02-prompt-engineering/
-├── 03-llm-apis/
-├── 04-ai-applications/
-├── 05-rag/
-├── 06-vector-databases/
-├── 07-ai-agents/
-├── 08-mcp/
-├── 09-ai-evaluation/
-├── 10-system-design/
-├── 11-deployment/
-├── 12-capstone-projects/
-└── README.md
+ai-product-engineering-journey/
+│
+├── README.md
+├── progress/
+│
+├── modules/
+│   ├── 00-ai-foundations/
+│   ├── 01-python/
+│   ├── 02-prompt-engineering/
+│   ├── 03-llm-apis/
+│   ├── 04-ai-applications/
+│   ├── 05-rag/
+│   ├── 06-ai-agents/
+│   ├── 07-mcp/
+│   ├── 08-ai-evaluation/
+│   ├── 09-system-design/
+│   ├── 10-deployment/
+│   └── 11-capstone/
+│
+├── assignments/
+├── notes/
+├── projects/
+├── playgrounds/
+├── resources/
+└── templates/
 ```
 
 ---
