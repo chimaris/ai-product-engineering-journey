@@ -90,7 +90,6 @@ ai-product-engineering-journey/
 ├── assignments/
 ├── notes/
 ├── projects/
-├── playgrounds/
 ├── resources/
 └── templates/
 ```
@@ -154,17 +153,18 @@ As I progress, this repository will include work with:
 | Milestone | Progress | Status |
 |-----------|----------|--------|
 | Milestone 0 - AI Foundations | 82% | ✅ Completed |
-| Milestone 1 - Python for AI | 0% | 🟡 In Progress |
+| Milestone 1 - Python for AI  | 0% | 🟡 In Progress |
 | Milestone 2 - Prompt Engineering | 0% | ⏳ Not Started |
 | Milestone 3 - LLM APIs | 0% | ⏳ Not Started |
 | Milestone 4 - AI Applications | 0% | ⏳ Not Started |
 | Milestone 5 - RAG Systems | 0% | ⏳ Not Started |
-| Milestone 6 - AI Agents | 0% | ⏳ Not Started |
-| Milestone 7 - MCP | 0% | ⏳ Not Started |
-| Milestone 8 - AI Evaluation | 0% | ⏳ Not Started |
-| Milestone 9 - System Design | 0% | ⏳ Not Started |
-| Milestone 10 - Production & Deployment | 0% | ⏳ Not Started |
-| Milestone 11 - Capstone Project | 0% | ⏳ Not Started |
+| Milestone 6 - Vector Databases | 0% | ⏳ Not Started |
+| Milestone 7 - AI Agents | 0% | ⏳ Not Started |
+| Milestone 8 - MCP | 0% | ⏳ Not Started |
+| Milestone 9 - AI Evaluation | 0% | ⏳ Not Started |
+| Milestone 10 - System Design | 0% | ⏳ Not Started |
+| Milestone 11 - Production & Deployment | 0% | ⏳ Not Started |
+| Milestone 12 - Capstone Project | 0% | ⏳ Not Started |
 
 ---
 

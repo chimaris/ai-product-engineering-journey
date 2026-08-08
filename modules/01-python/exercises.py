@@ -7,14 +7,17 @@ farmer = {
 
 crops = ["corn", "wheat", "soybeans", "rice", "barley"]
 
-def greet_farmer(name):
-    print(f"Hello {name}!, welcome to AI Plant Doctor!")
-
-
 aI_confidence = 0.85
 
+
+def greet_farmer(name):
+    return f"Hello {name}!, welcome to AI Plant Doctor!"
+
+
+print(greet_farmer(farmer["name"]))
+
+
 if(aI_confidence >= 0.80):
-
     print("Diagnosis confidence is high.")
-
-print("Diagnosis requires further investigation.")
+else:
+    print("Diagnosis requires further investigation.")
