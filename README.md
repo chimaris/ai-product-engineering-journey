@@ -149,21 +149,22 @@ As I progress, this repository will include work with:
 
 ---
 
-# 📈 Progress Tracker
+# 📈 AI Product Engineering Progress Tracker
 
-| Milestone | Status |
-|-----------|--------|
-| AI Foundations | ⏳ In Progress |
-| Python for AI | ⏳ Not Started |
-| Prompt Engineering | ⏳ Not Started |
-| LLM APIs | ⏳ Not Started |
-| AI Applications | ⏳ Not Started |
-| RAG Systems | ⏳ Not Started |
-| AI Agents | ⏳ Not Started |
-| MCP | ⏳ Not Started |
-| AI Evaluation | ⏳ Not Started |
-| AI Deployment | ⏳ Not Started |
-| Capstone Project | ⏳ Not Started |
+| Milestone | Progress | Status |
+|-----------|----------|--------|
+| Milestone 0 - AI Foundations | 82% | ✅ Completed |
+| Milestone 1 - Python for AI | 0% | 🟡 In Progress |
+| Milestone 2 - Prompt Engineering | 0% | ⏳ Not Started |
+| Milestone 3 - LLM APIs | 0% | ⏳ Not Started |
+| Milestone 4 - AI Applications | 0% | ⏳ Not Started |
+| Milestone 5 - RAG Systems | 0% | ⏳ Not Started |
+| Milestone 6 - AI Agents | 0% | ⏳ Not Started |
+| Milestone 7 - MCP | 0% | ⏳ Not Started |
+| Milestone 8 - AI Evaluation | 0% | ⏳ Not Started |
+| Milestone 9 - System Design | 0% | ⏳ Not Started |
+| Milestone 10 - Production & Deployment | 0% | ⏳ Not Started |
+| Milestone 11 - Capstone Project | 0% | ⏳ Not Started |
 
 ---
 
